@@ -63,7 +63,7 @@ function getRemaningTime(){
     
 
     let data= [days,hours,minitues,sec];
-    let s=['days..','hours.','min...','sec...'];//noob arrangment
+    let s=['days','hours','min','sec'];//noob arrangment
     function format(item,s){
         if (item<10){
             return item = `0${item} ${s}`;
