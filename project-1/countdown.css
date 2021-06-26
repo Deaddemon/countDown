@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color:  #F4C7AB;
+    font-family: 'Ubuntu', sans-serif;
+}
+/* 2B8A3 */
+.giveaway{
+    line-height: 1400%;
+    /* color: #B2B8A3; */
+    color:black;
+    font-weight: bolder;
+}
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+.deadline-format{
+     
+    background-color:  #0e0d0d;
+    width: 10%;
+    
+}
+h4,p{
+    color:#ffff;
+    font-weight: bolder;
+}
+img{
+    margin-top: 100px;
+    width: 10%;
+    
+}
+ 
