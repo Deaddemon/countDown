@@ -41,7 +41,7 @@ giveaway.textContent=
 // ':'+
 // min;
 `Your test starts on
-${weekday}, ${d} ${month} ${year}  ${hour}:${min}
+${weekday}, ${d} ${month} ${year}  ${hour}:${min} AM
  `
 
 //we will subtract milliseconds of future time and today
