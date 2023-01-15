@@ -17,7 +17,7 @@ const deadline = document.querySelector('.deadline');
 const items = document.querySelectorAll('.deadline-format h4');
  
 
-let date = new Date(2021,5,28,11,00,0);
+let date = new Date(2023,5,28,11,00,0);
   
  
 const year = date.getFullYear();
